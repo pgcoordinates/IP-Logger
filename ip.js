@@ -8,7 +8,7 @@ fetch("https://ipapi.co/json/")
         };
 
         // Send the data to the Discord webhook
-        fetch("https://discord.com/api/webhooks/1249231367057834014/IkOD3gMKxASoxgHzZSXlRLeFHchi3faP9zyPsUFAs7Z12dg7uE700dHL05A0R-9yUyHN", {
+        fetch("", {
             method: "POST",
             headers: {
                 "Content-Type": "application/json"
